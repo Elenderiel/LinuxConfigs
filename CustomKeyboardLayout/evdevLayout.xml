@@ -1,0 +1,10 @@
+<layout>
+  <configItem>
+    <name>us-custom</name>
+    <shortDescription>US Custom</shortDescription>
+    <description>us-de mix</description>
+    <languageList>
+      <iso639Id>eng</iso639Id>
+    </languageList>
+  </configItem>
+</layout>
